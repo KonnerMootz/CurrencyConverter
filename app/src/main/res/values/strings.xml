@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="action_settings">About Us</string>
+    <string name="title_activity_about_us">About Us</string>
+    <string name="one_field_must_not_be_empty">At least one field must not be empty.</string>
+    <string name="usd">USD</string>
+    <string name="about_concordia">Concordia University, St. Paul is accredited by the Higher Learning Commission and is a member of the North Central Association. Concordia University, St. Paul has been accredited since 1967, with reaccreditation given in 2018.</string>
+    <string name="go_back">GO BACK</string>
+    <string name="exchanging_currency">Exchanging Currency</string>
+    <string name="eur">EUR</string>
+    <string name="convert">CONVERT</string>
+    <string name="clear">CLEAR</string>
+</resources>
